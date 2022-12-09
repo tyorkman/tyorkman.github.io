@@ -1,2 +1,3 @@
 # tyorkman.github.io
-Website portfolio
+Website portfolio for projects
+
